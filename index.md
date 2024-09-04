@@ -190,6 +190,22 @@ Ontdek nog veel meer op [framalibre.org](https://framalibre.org) (in het frans)
     </div>
   </article>
 
+## Datum prikken
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Framadate.png">
+    </div>
+    <div>
+      <h2>Framadate</h2>
+      <p>Organiser des rendez-vous simplement, librement.</p>
+      <div>
+        <a href="https://framalibre.org/notices/framadate.html">Vers la notice Framalibre</a>
+        <a href="https://framadate.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 # Nog te ontdekken
 
@@ -227,6 +243,41 @@ Ontdek nog veel meer op [framalibre.org](https://framalibre.org) (in het frans)
       </div>
     </div>
   </article> 
+
+## ebooks
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Calibre.png">
+    </div>
+    <div>
+      <h2>Calibre</h2>
+      <p>Gestionnaire de bibliothèque de livres numériques.</p>
+      <div>
+        <a href="https://framalibre.org/notices/calibre.html">Vers la notice Framalibre</a>
+        <a href="https://calibre-ebook.com/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+## Documenten converteren (bvb naar PDF)
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Pandoc.png">
+    </div>
+    <div>
+      <h2>Pandoc</h2>
+      <p>Convertissez toutes sortes de documents avec ce couteau suisse multi-formats.</p>
+      <div>
+        <a href="https://framalibre.org/notices/pandoc.html">Vers la notice Framalibre</a>
+        <a href="http://pandoc.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 ** Deze pagina is gemaakt met **
 
