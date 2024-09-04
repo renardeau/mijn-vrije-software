@@ -96,7 +96,8 @@ Ontdek nog veel meer op [framalibre.org](https://framalibre.org) (in het frans)
     </div>
     <div>
       <h2>Wormhole</h2>
-      <p>Voor het versturen van grote bestanden met respect voor privacy (alternatief voor WeTransfer)</p>
+      <p>Voor het versturen van grote bestanden met respect voor privacy (alternatief voor WeTransfer)<br/>
+      Eigenlijk een webapp (en dus niet echt vrije software), maar toch het vermelden waard</p>
       <div>
         <a href="https://wormhole.app">Naar de website</a>
       </div>
@@ -223,6 +224,22 @@ Ontdek nog veel meer op [framalibre.org](https://framalibre.org) (in het frans)
       <div>
         <a href="https://framalibre.org/notices/i-hate-money.html">Vers la notice Framalibre</a>
         <a href="https://ihatemoney.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+** Deze pagina is gemaakt met **
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Scribouilli.png">
+    </div>
+    <div>
+      <h2>Scribouilli</h2>
+      <p>Créer votre petit site facilement !</p>
+      <div>
+        <a href="https://framalibre.org/notices/scribouilli.html">Vers la notice Framalibre</a>
+        <a href="https://scribouilli.org/">Vers le site</a>
       </div>
     </div>
   </article> 
